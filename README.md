@@ -1,5 +1,5 @@
 # Тестовое задание Unity: "Симуляция сбора ресорсов дронами фракций"
-
+[ссылка](https://drive.google.com/file/d/1Z9ksaOzp7o00gzfP_oCpQX2zymbtrRgZ/view?usp=sharing)
 
 ## Реализованные механики
 
