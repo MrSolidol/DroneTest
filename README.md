@@ -47,5 +47,5 @@
 
 ### Package и plugins
 - Zenject
-- HotReload
 - NavMesh
+- HotReload
